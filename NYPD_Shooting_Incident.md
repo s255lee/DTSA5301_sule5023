@@ -182,3 +182,5 @@ pie(slices, labels = lbls, main="Confirmed Deaths from Shootings by Race", cex =
     As the researcher, I acknowledge the need for constant
     self-awareness and have strived to approach the analysis with a
     commitment to social justice.
+
+  - hi
